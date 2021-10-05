@@ -1,0 +1,54 @@
+C:\Users\Admin\Downloads>java Symmetric
+Enter the no. of rows :
+3
+Enter the no. of columns :
+3
+Enter the elements :
+1
+2
+3
+1
+2
+3
+1
+2
+3
+Printing the input matrix :
+1       2       3
+1       2       3
+1       2       3
+The given matrix is not symmetric...
+
+C:\Users\Admin\Downloads>java Symmetric
+Enter the no. of rows :
+2
+Enter the no. of columns :
+3
+Enter the elements :
+4
+23
+1
+4
+23
+1
+Printing the input matrix :
+4       23      1
+4       23      1
+The given matrix is not a square matrix, so it can't be symmetric.
+
+C:\Users\Admin\Downloads>java Symmetric
+Enter the no. of rows :
+2
+Enter the no. of columns :
+2
+Enter the elements :
+3
+5
+5
+3
+Printing the input matrix :
+3       5
+5       3
+The given matrix is symmetric...
+
+C:\Users\Admin\Downloads>

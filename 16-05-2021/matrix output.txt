@@ -1,0 +1,35 @@
+C:\Users\Admin\Downloads>javac matrixadd.java
+
+C:\Users\Admin\Downloads>java matrixadd
+enter the no of rows:3
+enter the no of columns:3
+enter the elements of matrix1 :
+10
+2
+3
+
+4
+5
+4
+
+4
+1
+3
+
+enter the elements of matrix2 :
+2
+5
+4
+
+2
+2
+1
+
+0
+2
+3
+
+sum of matrix :
+12       7       7
+6       7       5
+4       3       6

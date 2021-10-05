@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads>javac Main.java
+
+C:\Users\Admin\Downloads>java Main
+CPU price = 27000.0
+Processor cores = 8.0
+Processor manufacturer = Intel
+RAM memory = 16.0
+RAM manufacturer = OWC
